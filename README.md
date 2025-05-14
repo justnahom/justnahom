@@ -1,7 +1,5 @@
 # Hi there, I'm Nahom! 👋
 
-![Bann![images]
-er Image]([your_banner_image_url_here](https://github.com/user-attachments/assets/c3354f25-5c0f-4fb4-94e0-606d42a8e63b))
 
 ## About Me 🚀
 
