@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Nahom! 👋
 
-<!--
-**justnahom/justnahom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bann![images]
+er Image]([your_banner_image_url_here](https://github.com/user-attachments/assets/c3354f25-5c0f-4fb4-94e0-606d42a8e63b))
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+im currently learning web dev/ front end....
+
+- 🌱 Currently learning: Web dev(front end)
+- 🔭 Working on: **[current projects or side-projects]**
+- 🌍 Languages: **[HTML,css,java and english, amharic ]
+- 📫 How to reach me: takelenahom45@gmail.com 
+
+## My Skills 🧠
+
+-Video editing 
+
+## Get in Touch 📬
+
+- instagram: justnahom__
+
